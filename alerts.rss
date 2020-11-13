@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>alerts</title>
+    <link>sophieproject.github.io/rss</link>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>First Alert</title>
+      <pubDate>Fri, 13 Nov 2020 08:22:05 -0600</pubDate>
+      <category>Tests</category>
+      <description><![CDATA[This is what an alert from Sophie Team looks like.]]></description>
+    </item>
+  </channel>
+</rss>
