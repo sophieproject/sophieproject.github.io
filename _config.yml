@@ -20,7 +20,7 @@
 
 title: The Sophie Project
 email: support@sophieproject.com
-description: The Sophie Project is a 501c nonprofit dedicated to protecting children from preadators online.
+description: The Sophie Project is a group dedicated to protecting children from preadators online.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sophieproject
