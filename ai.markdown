@@ -12,15 +12,15 @@ This is a fair way to measure sexual activity, and we use it in Sophie's AI. <br
 1: Slight flirting <br/>
 2: Sexual flirting <br/>
 3: More sexual flirting, asking for personal information, etc <br/>
-4: Propsitions for sexual activity, sexual roleplay, etc <br/>
+4: Propositions for sexual activity, sexual roleplay, etc <br/>
 5: Acknowledging a minor's age and doing anything from 2-4 <br/>
-10: Performing (sextortion)[about://blank] or posting known child-porn sites that are yet to be taken down. <br/>
+10: Performing (sextortion)[about://blank] or posting known child-porn sites that are yet to be removed. <br/>
 <br/>
 Most users will not reach a level 4 strike.
 
 ## Strikes and Records
 Your points are *never* exposed to third parties. We rank points in values, such as 1-3 (Minor), 3-6 (Moderate), 6-8 (Suspicious), and 8+ (Severe) <br/>
-Teenagers are not given 1 point strikes, we give all teenagers 1 point off of every strike, so flirting doesn't punish the wrong people. <br/>
+Teenagers don't get 1 point strikes; we give them 1 point off of every strike, so flirting will not lead to punishment for the wrong people. <br/>
 Records may follow you around the internet, but more times than not, your record will be clean if you are.
 
 ## Human Moderation
