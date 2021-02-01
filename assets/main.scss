@@ -11,10 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 $brand-color:#0080FF;
-$background-color: #1e1e1e; /* a dark, off-black for the bg */
-$text-color: #ffffff; /* an off-white for the text */
-$grey-color-light:#232323; /* for the border-top separators */
-$grey-color-dark: #0080FF; /* such as the site title in the header, visited */
 
 @import "{{ site.theme }}";
 
