@@ -19,11 +19,13 @@ function validateAge() {
   birthday = birthdatestring.value;
   age = Age(birthday);
   console.log(age)
-  fetch("https://checkip.amazonaws.com/").then(res => res.text()).then(data => { IP = data} )
-  return(`{
-    "Username": "${IP}",
+  $.getJSON("https://api.ipify.org?format=json", 
+  function(data) {
+  console.log(`{
+    "Username": "${data}",
     "Age": "${age}"
   }`)
+});
 }
 
 function getAge() {
