@@ -18,11 +18,10 @@ function validateAge() {
   const birthdatestring = document.getElementById("date");
   birthday = birthdatestring.value;
   age = Age(birthday);
-  console.log(age)
   $.getJSON("https://api.ipify.org?format=json", 
   function(data) {
   console.log(`{
-    "Username": "${data}",
+    "Username": "${data.ip}",
     "Age": "${age}"
   }`)
 });
