@@ -9,20 +9,20 @@ Here at the Sophie Project, we aim to stop pedophilia at its roots. <br/>
 [Learn How](/about)
 
 ![AI](assets/ai.svg){: style="float: left"}
-##  Sophie's AI
+##  Sophie's AI
 Sophie's AI is a program designed to detect explicit activity. <br/>
 [Learn More](/ai) <br/>
 [View Source](https://github.com/sophieproject/sophie-ai-model)
 
 ![Bot](assets/bot.svg){: style="float: left"}
-##  Sophie Bot
+##  Sophie Bot
 Sophie Bot is a brand of bots that all collect ages and usernames, and then uses Sophie's AI to reprimand pedophiles and other creeps that attempt to prey on children. <br/>
 [Learn How](/bot) <br/>
 [View Source](https://github.com/sophieproject/sophiebot)
 
 
 ![Extension](assets/extension.svg){: style="float: left"}
-##  Sophie Extension
+##  Sophie Extension
 Sophie has a web browser extension that is designed like Sophie's bot and will keep children away from sexual activity on any site they visit. <br/>
 [Learn More](/extension) <br/>
 [View Source](https://github.com/sophieproject/sophieextension) <br/>
@@ -30,22 +30,23 @@ Sophie has a web browser extension that is designed like Sophie's bot and will k
 
 
 ![App](assets/app.svg){: style="float: left"}
-##  Sophie App
+##  Sophie App
 We have our web app that you can use on your phone or computer that provides an easy way to report, access to all pedophile alerts we push out, and more. <br/>
 [Learn More](/app) <br/>
 [View Source](https://github.com/sophieproject/sophieapp)
 
-##  Nonprofit
+## Nonprofit
 We don't aim to make a profit off of Sophie, our intentions lie with stopping pedophiles. We don't sell your data to third parties or attempt to flood you with microtransactions or ads, and we never will.
 
 
 ![Privacy](assets/privacy.svg){: style="float: left"}
-##  Privacy
+##  Privacy
 We make Sophie's bots collect the bare minimum required to function. No extra data collection, no passwords, and no creepy data collection. This site has **1** cookie, which is used for analytics. We even have a detailed but simple privacy policy. <br/>
 [Learn More](/privacy)
 
 <br/>
 <br/>
+
 # Hotlines and Lifelines
 We provide several links to services that can be invaluable to sexual assault victims. Such resources can be:
 - <a href="tel:1-800-273-8255"> The suicide hotline </a>
